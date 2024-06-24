@@ -8,6 +8,7 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>Test</h1>
     <div id="main">
         @include('homes/header')
         @if (isset($hiragana))
